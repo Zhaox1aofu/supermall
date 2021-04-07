@@ -14,7 +14,7 @@ export default {
     path: String,
     activeColor: {
       type: String,
-      default: '#d81e06'
+      default: '#ff5777'
     }
   },
   data() {
