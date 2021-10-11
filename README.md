@@ -31,3 +31,14 @@ API接口
 - 6.运行项目命令：npm run start
 
 运行后，在运行supermall时 端口号baseURL设置为’http://localhost:3000‘就行了
+
+因为是后端项目是本地运行的，这里是运行截图
+首页浏览商品
+
+![](src/assets/img/test/img1.png)
+
+点击商品进入细节页，可以选择进入购物车
+
+![](src/assets/img/test/img3.jpg)
+![](src/assets/img/test/img2.jpg)
+![](src/assets/img/test/img4.jpg)
